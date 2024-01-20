@@ -4,7 +4,7 @@ Simulation Software - ModelSim (fast) or ModelSim Altera Edition (more slowly)
 
  - Download project
  - Launch ModelSim
- - cd <Path to project>
+ - cd "Path to project"
  - do ./scripts/setup.tcl
 
 Enjoy simulation =)
